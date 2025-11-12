@@ -18,3 +18,4 @@ Each careful step along the by-way
 And more, much more than this
 I did it my way
 New line added in feature branch.
+One more line added in feature branch.
